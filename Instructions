@@ -1,0 +1,52 @@
+Implement the same using sets
+Implement the same using maps
+Michal will grill me about the differences between these collections
+List, set, maps - interfaces or collections??????
+concrete implementation of set I would use ..
+concrete implementation of a map I would use ..
+
+Read up on interface vs class.
+Imagine I am a class and I am a concrete human being but also a human being
+class: Dharam, instance of an interface: Human
+extends suggests inheritance, implements suggests it's implementing an interface
+_________________
+
+
+Remove binary class from git repo
+Delete class (so I no longer see the class file in GitHub)
+Commit
+
+Then modify git ignore (exclude target folder or specify the class)
+
+
+
+Create 3 entry point .java files for lists, sets and maps separately
+EntryPointSet, EntryPointList, EntryPointMap
+
+Before printing sort each collection alphabetically
+
+
+Rather than using strings for the ingredients, create a class for ingredient (template of any ingredient, name + constructor) - sorting won’t work as expected once this is implemented
+Have a toString method in the Ingredient class (don’t use IDE, create my own methods)
+* toString method
+* Equals method
+* Hashcode method
+
+All 3 methods should have @Override to tell java to use this method (to ensure this method is used)
+
+_____________________________________
+
+Not operating on strings
+Oper
+
+Map will misbehave until I've implemented hashcode equals
+
+
+
+
+Hash
+
+Don't use ide
+
+
+______________________________________

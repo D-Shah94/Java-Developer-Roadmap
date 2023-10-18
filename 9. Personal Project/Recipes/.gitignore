@@ -1,0 +1,18 @@
+!**/src/main/**
+!**/src/test/**
+.DS_Store
+
+# Ignore binary files
+.class
+
+### IntelliJ IDEA ###
+.idea
+
+### VS Code ###
+.vscode/
+
+### G8 ###
+target/
+
+### Folders ###
+production/Recipes/com/github/dshah94
